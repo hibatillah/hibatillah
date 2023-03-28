@@ -1,4 +1,3 @@
-### Hi there, I'm M. Hibatillah Hasanin 👋
 Student majoring information system, passionate🔥on web development and love💖 to design.
 
 <!--
