@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm M. Hibatillah Hasanin 👋
+Student majoring information system, passionate🔥on web development and love💖 to design.
 
 <!--
 **hibatillah/hibatillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
