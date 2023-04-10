@@ -1,5 +1,4 @@
-Student majoring Information System, passionate on Web Development🔥 and love to Design💖.<br>
-*Currently exploring React JS*🧑🏻‍💻
+Student majoring Information System, passionate on Web Development🔥 and Love to Design💖
 
 <!--
 **hibatillah/hibatillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
