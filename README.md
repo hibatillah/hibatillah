@@ -1,5 +1,7 @@
 Student majoring Information System, passionate on Web Development🔥 and Love to Design💖
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hibatillah&show_icons=true&locale=en&layout=compact" alt="hibatillah"  />
+
 <!--
 **hibatillah/hibatillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
