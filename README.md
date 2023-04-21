@@ -1,4 +1,4 @@
-Student majoring Information System, passionate on Web Development🔥 and Love to Design💖
+Student majoring Information System, passionate on Frontend Development🔥 and Love to Design💖
 
 
 <!--
