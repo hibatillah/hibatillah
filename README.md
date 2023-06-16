@@ -1,4 +1,4 @@
-Student majoring Information System, passionate on Frontend Development🔥 and Love to Design💖
+Student majoring Information System, passionate on Frontend Development🔥 and Love to Design🎲
 
 <!--
 **hibatillah/hibatillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
