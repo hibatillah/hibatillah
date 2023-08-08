@@ -1,7 +1,7 @@
 Student majoring Information System, passionate on Frontend Development🔥 and Love to Design🎲
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibatillah&layout=compact&hide_progress=true&theme=github_dark)
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibatillah&layout=compact&hide_progress=true&theme=github_dark)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64639cf3410780a6d9b5fdbd?variant=dark)](https://roadmap.sh) 
 
 **hibatillah/hibatillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
