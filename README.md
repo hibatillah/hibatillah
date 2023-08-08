@@ -1,4 +1,5 @@
-Student majoring Information System, passionate on Frontend Development🔥 and Love to Design🎲
+3rd year student 👨🏻‍💻 of Bachelor of Applied Information Systems at [Polytechnic Caltex Riau](https://pcr.ac.id). <br>
+Interested, passionate, and knowledgeable in frontend development🔥 and love to design🎲
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibatillah&layout=compact&hide_progress=true&theme=github_dark)
