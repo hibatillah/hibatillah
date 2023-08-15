@@ -1,4 +1,4 @@
-3rd year student 👨🏻‍💻 of Bachelor of Applied Information Systems at [Polytechnic Caltex Riau](https://pcr.ac.id). <br>
+Student👨🏻‍💻 Bachelor of Applied Information Systems at [Politeknik Caltex Riau](https://pcr.ac.id). <br>
 Interested, passionate, and knowledgeable in frontend development🔥 and love to design🎲
 
 <!--
