@@ -1,4 +1,4 @@
-Bachelor Applied of Science in Information Systems at [Politeknik Caltex Riau](https://pcr.ac.id). <br>
+Bachelor of Applied Science in Information Systems at [Politeknik Caltex Riau](https://pcr.ac.id). <br>
 Interested, passionate, and knowledgeable in frontend development🔥 and love to design🎲
 
 
