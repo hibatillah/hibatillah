@@ -1,5 +1,5 @@
-Bachelor of Applied Science in Information Systems at [Politeknik Caltex Riau](https://pcr.ac.id). <br>
-Interested, passionate, and knowledgeable in frontend development🔥 and love to design🎲
+Information Systems graduate with 3+ years experience in frontend and full stack development. <br> 
+Crafting scalable, user-friendly solutions across the stack with attention to experience and detail.
 
 
 <!--
