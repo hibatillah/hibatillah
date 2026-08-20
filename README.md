@@ -1,13 +1,9 @@
-Information Systems graduate and Full-Stack Developer thriving on TypeScript and React. <br/>
-I bridge design clarity with solid engineering to build scalable, user-focused web experiences. <br/>
-Dedicated to clean architecture, maintainable code, and product-driven solutions.
+[![Website](https://www.shieldcn.dev/badge/hibatillah.com.svg?logo=ri%3ALuLink&variant=branded&theme=neutral&size=xs&mode=light&font=geist)](https://hibatillah.com)
+
+Full-Stack Developer and AI Programmer building production-grade web applications and AI pipelines. <br/>
+I work with `React`, `TypeScript`, `Next.js`, `Laravel`, `Django`, and `Python`, moving comfortably across the stack to ship real products.
+Quality-driven and adaptable, always refining my toolkit to take on harder problems.
 
 <!--
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hibatillah&data=repositories,stars,commits&theme=darkmode)](https://github.com/hibatillah)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibatillah&layout=compact&hide_progress=true&theme=github_dark)
-
-<img src="https://komarev.com/ghpvc/?username=hibatillah" alt="hibatillah" />
-
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64639cf3410780a6d9b5fdbd?variant=dark)](https://roadmap.sh)
 -->
